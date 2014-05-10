@@ -36,6 +36,8 @@
         "inquirer": "^0.4.1"
     },
     "keywords": [
-        "slushgenerator"
+        "slushgenerator",
+        "HTML5",
+        "Boilerplate"
     ]
 }
