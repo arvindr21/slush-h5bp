@@ -25,7 +25,7 @@ $ npm install -g slush
 Create a new folder for your project:
 
 ```bash
-$ mkdir my-slush-h5bp
+$ mkdir my-h5bp-app
 ```
 
 Run the generator from within the new folder:
@@ -33,6 +33,14 @@ Run the generator from within the new folder:
 ```bash
 $ cd my-h5bp-app && slush h5bp
 ```
+
+To run the HTML5 Boilerplate application 
+
+```bash
+$ gulp
+```
+And then navigate to http://localhost:1881
+
 
 ## Getting To Know Slush
 
