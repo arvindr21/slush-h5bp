@@ -1,4 +1,9 @@
 # slush-h5bp [![Build Status](https://secure.travis-ci.org/arvindr21/slush-h5bp.png?branch=master)](https://travis-ci.org/arvindr21/slush-h5bp) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-h5bp.png)](http://badges.enytc.com/for/npm/slush-h5bp) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/arvindr21/slush-h5bp/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+#&nbsp;
+
+[![NPM](https://nodei.co/npm/slush-h5bp.png?downloads=true&stars=true)](https://nodei.co/npm/slush-h5bp/)
+
+#&nbsp;
 
 > A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
@@ -30,7 +35,7 @@ $ mkdir my-slush-h5bp
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-h5bp && slush h5bp
+$ cd my-h5bp-app && slush h5bp
 ```
 
 ## Getting To Know Slush
@@ -74,4 +79,3 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-
