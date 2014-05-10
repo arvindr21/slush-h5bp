@@ -1,5 +1,4 @@
 # slush-h5bp [![Build Status](https://secure.travis-ci.org/arvindr21/slush-h5bp.png?branch=master)](https://travis-ci.org/arvindr21/slush-h5bp) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-h5bp.png)](http://badges.enytc.com/for/npm/slush-h5bp) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/arvindr21/slush-h5bp/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-#&nbsp;
 
 [![NPM](https://nodei.co/npm/slush-h5bp.png?downloads=true&stars=true)](https://nodei.co/npm/slush-h5bp/)
 
