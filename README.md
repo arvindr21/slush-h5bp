@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/slush-h5bp.png?downloads=true&stars=true)](https://nodei.co/npm/slush-h5bp/)
 
-> A professional front-end template for building fast, robust, and adaptable web apps or sites.
+> A professional front-end template for building fast, robust, and adaptable web apps or sites. [http://html5boilerplate.com/]
 
 ## Getting Started
 
