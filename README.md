@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/slush-h5bp.png?downloads=true&stars=true)](https://nodei.co/npm/slush-h5bp/)
 
-> A professional front-end template for building fast, robust, and adaptable web apps or sites integrated with Gulpjs (+ live relaod).
+> A professional front-end template for building fast, robust, and adaptable web apps or sites integrated with Gulpjs (+ Live-Reload).
 
 From : http://html5boilerplate.com/
 
@@ -41,7 +41,7 @@ To run the HTML5 Boilerplate application
 ```bash
 $ gulp
 ```
-And then navigate to http://localhost:1881
+And then navigate to ```http://localhost:1881```
 
 
 ## Getting To Know Slush
